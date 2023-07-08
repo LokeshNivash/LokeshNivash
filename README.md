@@ -2,7 +2,7 @@
 - 👀 I’m interested in graphical designing, animation, game development.
 - 🌱 I’m currently learning python, c++, blender, unreal engine etc 
 - 💞️ I’m looking to collaborate on the fields of animation, designing and in the game development fields etc...
-- 📫 check out: https://lokeshnivash.super.site/
+- 📫 check out: https://lokeshnivash.netlify.app/
 
 <!---
 LokeshNivash/LokeshNivash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
