@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LokeshNivash
 - 👀 I’m interested in graphical designing, animation, and game development.
 - 🌱 I’m currently learning python, c++, blender, unreal engine etc 
-- 💞️ I’m looking to collaborate on the fields of animation, designing and in game development fields etc...
+- 💞️ I’m looking to collaborate on the fields of animation, designing and game development fields etc...
 - 📫 check out: https://lokeshnivash.netlify.app/
 
 <!---
